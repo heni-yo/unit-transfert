@@ -1,7 +1,7 @@
 let convertBtn = document.getElementById("convert-btn");
 let element = document.getElementById("ele");
 let unitArray = [
-  { title: "Length", unit1: "meter", unit2: "feet" },
+  { title: "Length", unit1: "meters", unit2: "feet" },
   { title: "Volume", unit1: "liters", unit2: "gallons" },
   { title: "Mass", unit1: "kilos", unit2: "pounds" },
 ];
